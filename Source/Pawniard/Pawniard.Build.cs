@@ -32,6 +32,9 @@ public class Pawniard : ModuleRules
 				"Mover",
 				"NavigationSystem",
 				"AIModule",
+				"GameplayCameras",
+				"Wynaut",
+				"EnhancedInput"
 			}
 		);
 
