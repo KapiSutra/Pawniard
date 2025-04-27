@@ -25,6 +25,16 @@
             "Name": "Mover",
             "Optional": true,
             "Enabled": true
+        },
+        {
+            "Name": "Wynaut",
+            "Optional": true,
+            "Enabled": true
+        },
+        {
+            "Name": "EnhancedInput",
+            "Optional": true,
+            "Enabled": true
         }
     ]
 }
